@@ -1,5 +1,5 @@
-# Machine Learning in Automatic Tabulation for Constraint Model Reformulation
-This repository contains the problem classes, instances, dataset and machine learning (ML) models used during the thesis work on "Machine Learning in Automatic Tabulation for Constraint Model Reformulation".
+# Learning When to Use Automatic Tabulation in Constraint Model Reformulation
+This repository contains the problem classes, instances, dataset and machine learning (ML) models used for the paper: "Learning When to Use Automatic Tabulation in Constraint Model Reformulation".
 
 # Table of contents
 1. [Organization](#organization)
